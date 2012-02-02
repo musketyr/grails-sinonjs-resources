@@ -6,9 +6,9 @@ It uses new [Resources Plugin](http://grails.org/plugin/resources) to handle res
 Just let your tests depend on 'sinon' module and it's done
 
 
-The plugin is not yet available on the grails repository, install it by running following command
+To install the plugin just type
 
 ```
-  grails install-plugin http://cloud.github.com/downloads/musketyr/grails-sinonjs-resources/grails-sinonjs-resources-0.1.0.zip
+  grails install-plugin sinonjs-resources
 ```
 
